@@ -1,19 +1,16 @@
 ---
-name: Bug Report
-about: If you are encountering errors in execution
-labels: bug
+name: New Feature
+about: A new feature of the software
+label: newFeature
 ---
-### Summary of the Bug
-
-### Steps to reproduce
--
+### Summary of the Feature
 
 ### Acceptance Criteria
 - [ ]
 
 ### Definition of Done
 - [ ] Acceptance criteria
-- [ ] Test case to reproduce the bug
+- [ ] Test case to prove functionality
 - [ ] PR is created. (Passes CI)
 - [ ] The PR is reviewed and approved
 - [ ] No TODOs left in the code unless explained in the ticket, if something else is still open, this is summarized in a comment in the issue
