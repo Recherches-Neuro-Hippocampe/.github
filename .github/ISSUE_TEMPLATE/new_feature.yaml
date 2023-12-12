@@ -1,0 +1,20 @@
+name: Feature Request
+description: File a feature request
+labels: ["feature"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request form!
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Describe the feature
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you would like to see!
+      value: "A new feature!"
+    validations:
+      required: true
