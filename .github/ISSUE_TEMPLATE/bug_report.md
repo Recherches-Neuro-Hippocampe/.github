@@ -3,8 +3,13 @@ name: Bug Report
 about: If you are encountering errors/problems in the application
 labels: bug
 ---
-### Summary of the Bug
+## **🐛 Bug Report**
+### **Describe the Bug:**
 
 
-### Steps to reproduce
 
+### **Steps to reproduce:**
+
+
+
+### **Screenshots:** (If applicable, add screenshots to help explain your problem.)

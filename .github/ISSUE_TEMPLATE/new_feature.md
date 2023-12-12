@@ -3,4 +3,9 @@ name: New Feature
 about: A new feature
 label: feature
 ---
-### Summary of the Feature
+## ✨ Feature Request
+### **Description:**
+
+
+
+### **Screenshots/Attachments (if applicable, add files to help explaining the feature):**
