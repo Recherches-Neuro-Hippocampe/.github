@@ -15,7 +15,6 @@ body:
       label: Describe the feature
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you would like to see!
-      value: "A new feature!"
     validations:
       required: true
 
@@ -24,6 +23,5 @@ body:
     attributes:
       label: Add attachments if necessary
       description: Add an attachment if you think it can help us understand the feature request better.
-      value: "A new feature!"
     validations:
       required: false
