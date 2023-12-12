@@ -18,3 +18,12 @@ body:
       value: "A new feature!"
     validations:
       required: true
+
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Add attachments if necessary
+      description: Add an attachment if you think it can help us understand the feature request better.
+      value: "A new feature!"
+    validations:
+      required: false
